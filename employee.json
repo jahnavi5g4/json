@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "employee_name":"Aparna",
+        "employee_salary" : 700000,
+        "employee_age": 20,
+        "profile_image" : "img"
+    },
+    {
+        "id": 2,
+        "employee_name":"Jahnavi",
+        "employee_salary" : 900000,
+        "employee_age": 21,
+        "profile_image" : "img"
+    },
+    {
+        "id": 3,
+        "employee_name":"Viswanth",
+        "employee_salary" : 1000000,
+        "employee_age": 23,
+        "profile_image" : "img"
+    },
+    {
+        "id": 4,
+        "employee_name":"Sudheera",
+        "employee_salary" : 600000,
+        "employee_age": 30,
+        "profile_image" : "img"
+    }
+        
+]

@@ -35,14 +35,14 @@
         "profile_image" : "img"
     },
     {
-        "id": 4,
+        "id": 6,
         "employee_name":"Bhagya",
         "employee_salary" : 300000,
         "employee_age": 22,
         "profile_image" : "img"
     },
     {
-        "id": 4,
+        "id": 7,
         "employee_name":"Amrutha",
         "employee_salary" : 200000,
         "employee_age": 23,

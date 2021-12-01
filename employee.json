@@ -24,7 +24,28 @@
         "id": 4,
         "employee_name":"Sudheera",
         "employee_salary" : 600000,
-        "employee_age": 30,
+        "employee_age": 35,
+        "profile_image" : "img"
+    },
+    {
+        "id": 5,
+        "employee_name":"Srinivas",
+        "employee_salary" : 700000,
+        "employee_age": 40,
+        "profile_image" : "img"
+    },
+    {
+        "id": 4,
+        "employee_name":"Bhagya",
+        "employee_salary" : 300000,
+        "employee_age": 22,
+        "profile_image" : "img"
+    },
+    {
+        "id": 4,
+        "employee_name":"Amrutha",
+        "employee_salary" : 200000,
+        "employee_age": 23,
         "profile_image" : "img"
     }
         
